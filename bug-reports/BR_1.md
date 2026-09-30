@@ -35,7 +35,7 @@
 Время полной загрузки первого экрана составляет **53,30 секунды**. Вкладка *Network* фиксирует сетевой затор: несжатые изображения амбассадоров фондов (`Mikhalkova.jpg`, `else.jpg`) скачиваются в параллельных потоках более 1.2 минут. Сторонний блокирующий скрипт весом 286 кБ останавливает парсинг HTML.
 
 ### 📸 Медиа (Скринкасты / Скриншоты)
-* [Ссылка на воспроизведение дефекта (Google Drive)](https://drive.google.com/file/d/1gZR6ULnccjZv8U8hjiCViyq8nRt-Xpah/view?usp=drive_link)
+* [Ссылка на скриншот дефекта (Google Drive)](https://drive.google.com/file/d/1gZR6ULnccjZv8U8hjiCViyq8nRt-Xpah/view?usp=drive_link)
 
 ---
 
