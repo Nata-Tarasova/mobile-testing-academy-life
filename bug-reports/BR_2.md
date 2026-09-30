@@ -36,7 +36,7 @@
 Видео воспроизводится рывками, трансляция регулярно прерывается экраном загрузки. Вкладка *Network* фиксирует, что частичные пакеты (Status 206) видеофайла `newvideo2.mp4` имеют избыточный вес (18.3 МБ на пакет) и скачиваются критически долго (около 1.2 минут). Плеер не успевает наполнять буфер обмена.
 
 ### 📸 Медиа (Скринкасты / Скриншоты)
-* [Ссылка на скриншот дефекта (Google Drive)](https://drive.google.com/file/d/1LoEhB4f6_90IzxL9_sIu3H82xVJUqR8f/view?usp=drive_link)
+* [Ссылка на скриншот дефекта (Google Drive)](https://drive.google.com/file/d/1HGlHkVKdRndRRsM-wQy0X1aszztPYNMP/view?usp=drive_link)
 
 ---
 
